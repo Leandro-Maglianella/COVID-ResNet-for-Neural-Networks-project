@@ -27,3 +27,13 @@ Patients distribution
 |:-----:|:------:|:---------:|:--------:|:------:|
 | train | 7966   |   5451    |   1483   |  14900 |
 |  test |  885   |    591    |     46   |   1522 |
+
+## Pre-processing
+Use [preprocessing.ipynb](/preprocessing.ipynb) to generate the .npy files.
+
+## Training and Evaluation
+Use [project.ipynb](/project.ipynb) to train and evaluate the models.
+
+
+## Report
+Check the [report](/report.pdf) for more info.
